@@ -1,3 +1,4 @@
+
 use da8;
 show tables;
 drop table employees;
